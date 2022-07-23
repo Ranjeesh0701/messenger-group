@@ -127,6 +127,7 @@ const Home = () => {
               padding: "4px 10px",
               borderRadius: "10px",
               boxShadow: "0px 0px 50px #eee",
+              width: "10px",
             }}
           />
           <IconButton
