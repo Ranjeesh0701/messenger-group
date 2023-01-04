@@ -15,12 +15,12 @@ const Login = () => {
     <Container>
       <LoginContainer>
         <Image
-          src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png"
-          width={190}
+          src="https://logo-logos.com/2016/10/WhatsApp_logo_icon.png"
+          width={120}
           height={120}
         />
         <Button variant="outlined" color="primary" onClick={signIn}>
-          Login with facebook
+          Login with Google
         </Button>
       </LoginContainer>
     </Container>
