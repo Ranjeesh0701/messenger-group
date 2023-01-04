@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Messenger Clone
 
-Open [https://messenger-group.netlify.app/](https://messenger-group.netlify.app/) to view it in your browser.
+Open [https://ranjeesh-messenger-group.netlify.app/](https://ranjeesh-messenger-group.netlify.app/) to view it in your browser.
